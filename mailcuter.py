@@ -30,7 +30,6 @@ for fName in filesName:
 		if e not in res:
 			res.append(e)
 	f.close()
-	break
 
 #write emails
 f3 = open('ВСЕ ЕКАТЕРЕНБУРГ3.txt', 'w+')
